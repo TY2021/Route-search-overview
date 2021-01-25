@@ -1,2 +1,2 @@
 # Route-search-overview
-![探索システム 説明2](https://user-images.githubusercontent.com/40758752/105701616-e68c3180-5f4d-11eb-992e-fccf66fab4cb.png)
+![探索システム 説明2](https://user-images.githubusercontent.com/40758752/105702133-a7121500-5f4e-11eb-8eda-85dc0eaffc3c.png)
