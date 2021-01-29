@@ -4,4 +4,4 @@
 ## データ元
 駅データ.jp https://www.ekidata.jp/  
 駅.Locky http://eki.locky.jp/site/top  
-TimetableSQLは駅.Lockyの著作権上非公開です
+TimetableSQLは駅.Lockyの著作権上の理由で非公開です
