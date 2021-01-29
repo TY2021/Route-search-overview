@@ -1,5 +1,5 @@
 # Route-search-overview
-![探索システム 説明2](https://user-images.githubusercontent.com/40758752/105703224-3ff56000-5f50-11eb-8e75-5c75f4cdc3fd.png)
+![探索システム 説明2](https://user-images.githubusercontent.com/40758752/106231264-a3271100-6234-11eb-829e-3b335065a260.png)
 
 ## データ元
 駅データ.jp https://www.ekidata.jp/  
